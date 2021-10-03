@@ -1,5 +1,5 @@
 {
-  "sliderItems": [
+  "slides": [
     {
       "id": "shoes-0",
       "src": "img/img-1.jpg",
@@ -31,7 +31,7 @@
       "description": "Lorem ipsum lorem ipsum lorem ipsum"
     }
   ],
-  "clothes": [
+  "products": [
     {
       "id": "clothes-0",
       "src": "img/clothes-1.jpg",
