@@ -1,3 +1,5 @@
+import logo from "./logo.png";
+
 function Footer() {
   return (
     <footer className="footer">
@@ -33,7 +35,7 @@ function Footer() {
           </a>
         </li>
       </ul>
-      <img src="img/logo.png" alt="Logo" className="footer__logo" />
+      <img src={logo} alt="Logo" className="footer__logo" />
     </footer>
   );
 }
